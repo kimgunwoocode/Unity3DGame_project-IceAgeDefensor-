@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4f699c960e5704097c8e47e4ddf919, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  Weapon_prefab: {fileID: 3998822677710655898, guid: 2b978c512a46b5647917ea8e5f157711, type: 3}
+  Bullet: {fileID: 2572512744182042433, guid: fb71004907c505e4c88aa6ef04cacbdc, type: 3}
+  weaponLevel: 1
+  ATK: 3
+  AttackSpeed: 1.8
+  AttackRange: 1
+  ATK_increase: 1
+  AttackSpeed_increase: -0.05
+  AttackRange_increase: 0
+  AttackArea: {x: 0.7, y: 2, z: 95}
+  weaponID: 5
+  Weapon_name: "\uAD8C\uCD1D"
+  Weapon_description: "\uAC15\uB825\uD55C \uBC18\uC790\uB3D9 \uBBF8\uB798\uC758 \uC9F1\uB3CC
+    \uBC1C\uC0AC\uB300"
