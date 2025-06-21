@@ -1,5 +1,5 @@
 # Unity3DGame_project-IceAgeDefensor-
-
+공룡이 얼음깨는 3D 서바이벌 로그라이크 게임
 
 (2025년 5/19 ~ 5/6) (BUD콘테스트 참가 작품)(베타버전)
 *링크*: https://mandlemandle.com/project/iceagedispenser
